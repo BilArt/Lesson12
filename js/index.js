@@ -60,7 +60,7 @@
 // const newUnixDate = Date.now();
 // console.log(newUnixDate);
 
-const date = new Date();
+// const date = new Date();
 
 // console.log(date.getDate());
 
